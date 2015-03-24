@@ -21,10 +21,6 @@ h1, h2, h3, h4 {
 	text-transform: uppercase;
 }
 
-p {
-
-}
-
 div {
 	border-width: 0px;
 	padding: 0px;
@@ -34,7 +30,6 @@ div {
 .container {
 	width: 1000px;
 	margin: 0 auto;
-	
 }
 
 section {
@@ -89,7 +84,6 @@ header p {
 .logo {
 	float: left;
 	display: inline-block;
-
 }
 
 .logo a {
@@ -119,8 +113,7 @@ nav ul li a {
 	text-decoration: none;
 	font-family: ;
 	color: white;
-	text-shadow:;
-	
+	text-shadow:;	
 }
 
 nav ul li a:hover {
@@ -143,8 +136,6 @@ nav ul li a:hover {
 	margin-bottom: 30px;
 }
 
-
-
 .article1 {
 	width: 310px;
 	background-color: white;
@@ -154,7 +145,6 @@ nav ul li a:hover {
 	border-radius: 10px;
 	float: left;
 }
-
 
 dt {
 	text-transform: capitalize;
@@ -175,7 +165,6 @@ a {
 	margin: 0px;
 	padding: 0px;
 	color: white;
-
 }
 
 
@@ -183,7 +172,6 @@ a {
 	background-image: url('../img/baker_beach.jpeg');
 	background-size: cover;
 	margin: 0 10px 10px 0;
-
 }
 
 .two {
@@ -262,7 +250,5 @@ footer {
 	text-align: center;
 	border-bottom: 0;
 	border-top: 10px solid navy;
-
-	
 	clear: both;
 }
