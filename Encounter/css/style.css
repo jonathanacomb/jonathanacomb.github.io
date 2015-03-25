@@ -1,7 +1,6 @@
 body {
 	margin: 0;
 	font-family: 'Raleway', sans-serif;
-/*	background-color: linen;*/
 }
 
 main { 
@@ -14,7 +13,6 @@ h1 {
 	font-size: 35px;
 	text-align: center;
 	color: navy;
-	/*letter-spacing: 2;*/
 	margin-top: 40px;
 }
 
@@ -35,6 +33,7 @@ div {
 
 section {
 	width: 550px;
+	min-height: 400px;
 	background-color: white;
 	margin: 20px 10px 10px 10px;
 	padding: 10px;
@@ -53,6 +52,7 @@ section a {
 
 article {
 	width: 550px;
+	min-height: 400px;
 	background-color: white;
 	margin: 20px 10px 10px 10px;
 	padding: 10px;
@@ -92,9 +92,7 @@ header p {
 .logo a {
 	font-family: 'Lora', serif;;
 	font-size: 45px;
-	/*font-weight: ;*/
 	text-decoration: none;
-/*	text-shadow:;*/
 	color: navy;
 }
 
@@ -114,9 +112,7 @@ nav ul li {
 
 nav ul li a {
 	text-decoration: none;
-	/*font-family: ;*/
 	color: white;
-	/*text-shadow:;	*/
 }
 
 nav ul li a:hover {
