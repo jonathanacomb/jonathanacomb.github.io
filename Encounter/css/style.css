@@ -37,7 +37,6 @@ section {
 	background-color: white;
 	margin: 20px 10px 10px 10px;
 	padding: 10px;
-	border: 10px solid white;
 	box-shadow: 2px 2px 5px navy;
 	border-radius: 10px;
 	float: left;
@@ -56,7 +55,6 @@ article {
 	background-color: white;
 	margin: 20px 10px 10px 10px;
 	padding: 10px;
-	border: 10px solid white;
 	box-shadow: 2px 2px 5px navy;
 	border-radius: 10px;
 	float: left;
@@ -239,7 +237,6 @@ a {
 form {
 	width: 400px;
 	height: 400px;
-	border: 10px solid white;
 	box-shadow: 2px 2px 5px navy;
 	margin-right: auto;
 	margin-left: auto;
