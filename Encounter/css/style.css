@@ -1,9 +1,10 @@
 body {
 	margin: 0;
 	font-family: 'Raleway', sans-serif;
+/*	background-color: linen;*/
 }
 
-main {
+main { 
 	display: block;
 	min-height: 650px;
 }
@@ -13,7 +14,7 @@ h1 {
 	font-size: 35px;
 	text-align: center;
 	color: navy;
-	letter-spacing: 2;
+	/*letter-spacing: 2;*/
 	margin-top: 40px;
 }
 
@@ -37,7 +38,8 @@ section {
 	background-color: white;
 	margin: 20px 10px 10px 10px;
 	padding: 10px;
-	border: 10px solid navy;
+	border: 10px solid white;
+	box-shadow: 2px 2px 5px navy;
 	border-radius: 10px;
 	float: left;
 }
@@ -54,7 +56,8 @@ article {
 	background-color: white;
 	margin: 20px 10px 10px 10px;
 	padding: 10px;
-	border: 10px solid navy;
+	border: 10px solid white;
+	box-shadow: 2px 2px 5px navy;
 	border-radius: 10px;
 	float: left;
 }
@@ -89,9 +92,9 @@ header p {
 .logo a {
 	font-family: 'Lora', serif;;
 	font-size: 45px;
-	font-weight: ;
+	/*font-weight: ;*/
 	text-decoration: none;
-	text-shadow:;
+/*	text-shadow:;*/
 	color: navy;
 }
 
@@ -111,9 +114,9 @@ nav ul li {
 
 nav ul li a {
 	text-decoration: none;
-	font-family: ;
+	/*font-family: ;*/
 	color: white;
-	text-shadow:;	
+	/*text-shadow:;	*/
 }
 
 nav ul li a:hover {
@@ -141,13 +144,13 @@ nav ul li a:hover {
 	background-color: white;
 	margin: 20px 0 10px 10px;
 	padding: 10px;
-	border: 10px solid navy;
+	
 	border-radius: 10px;
 	float: left;
 }
 
 dt {
-	text-transform: capitalize;
+	text-transform: uppercase;
 }
 
 a {
@@ -160,7 +163,8 @@ a {
 .box {
 	width: 300px;
 	height: 225px;
-	border: 10px solid black;
+	border: 10px solid white;
+	box-shadow: 2px 2px 5px navy;
 	float: left;
 	margin: 0px;
 	padding: 0px;
@@ -229,7 +233,8 @@ a {
 form {
 	width: 400px;
 	height: 400px;
-	border: 10px solid navy;
+	border: 10px solid white;
+	box-shadow: 2px 2px 5px navy;
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 20px;
