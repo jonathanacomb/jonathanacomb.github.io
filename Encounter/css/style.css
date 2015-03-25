@@ -145,6 +145,12 @@ nav ul li a:hover {
 }
 .article3 {
 	min-height: 300px;
+	width: 310px;
+	background-color: white;
+	margin: 20px 0 10px 10px;
+	padding: 10px;
+	border-radius: 10px;
+	float: left;
 }
 .section1 {
 	min-height: 300px;
