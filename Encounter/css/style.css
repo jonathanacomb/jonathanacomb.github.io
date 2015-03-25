@@ -31,35 +31,11 @@ div {
 	margin: 0 auto;
 }
 
-section {
-	width: 550px;
-	min-height: 400px;
-	background-color: white;
-	margin: 20px 10px 10px 10px;
-	padding: 10px;
-	box-shadow: 2px 2px 5px navy;
-	border-radius: 10px;
-	float: left;
-}
-
 section a {
 	text-decoration: none;
 	color: black;
 	text-shadow: 2px 2px 3px grey;
 }
-
-
-article {
-	width: 550px;
-	min-height: 400px;
-	background-color: white;
-	margin: 20px 10px 10px 10px;
-	padding: 10px;
-	box-shadow: 2px 2px 5px navy;
-	border-radius: 10px;
-	float: left;
-}
-
 
 /*=====================header=======================*/
 /*===================================================*/
@@ -118,8 +94,27 @@ nav ul li a:hover {
 	text-shadow: 2px 2px 2px white;
 }
 
+.left {
+	width: 550px;
+	min-height: 400px;
+	background-color: white;
+	margin: 20px 10px 10px 10px;
+	padding: 10px;
+	box-shadow: 2px 2px 5px navy;
+	border-radius: 10px;
+	float: left;
+}
 
-
+.right {
+	width: 310px;
+	min-height: 400;
+	background-color: white;
+	margin: 20px 0 10px 10px;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 5px navy;
+	float: left;
+}
 
 /*=====================index.html=======================*/
 /*======================================================*/
@@ -133,26 +128,6 @@ nav ul li a:hover {
 	margin-bottom: 30px;
 }
 
-.article1 {
-	width: 310px;
-	background-color: white;
-	margin: 20px 0 10px 10px;
-	padding: 10px;
-	border-radius: 10px;
-	float: left;
-}
-.article3 {
-	min-height: 300px;
-	width: 310px;
-	background-color: white;
-	margin: 20px 0 10px 10px;
-	padding: 10px;
-	border-radius: 10px;
-	float: left;
-}
-.section1 {
-	min-height: 300px;
-}
 dt {
 	text-transform: uppercase;
 }
